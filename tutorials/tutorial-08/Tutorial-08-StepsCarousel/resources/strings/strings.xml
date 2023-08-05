@@ -9,4 +9,6 @@
 	<string id="showStepsTitle">Show Steps of the current activity</string>
 	<string id="showStepsToGoTitle">Show Steps left to reach goal steps of the day</string>
 	<string id="showGoalPercentageTitle">Show Goal Reached Today in Percent</string>
+	<string id="GoalReached">Goal reached</string>
+	<string id="Congrats">Congratulations</string>
 </strings>

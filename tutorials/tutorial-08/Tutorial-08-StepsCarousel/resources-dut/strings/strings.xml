@@ -9,4 +9,6 @@
 	<string id="showStepsTitle">Toon staptotaal van huidige activiteit</string>
 	<string id="showStepsToGoTitle">Toon het aantal stappen wat er nodig is om het doel van vandaag te bereiken</string>
 	<string id="showGoalPercentageTitle">Toon percentage van het doel bereikt</string>
+	<string id="GoalReached">Goal reached</string>
+	<string id="Congrats">Congratulations</string>
 </strings>

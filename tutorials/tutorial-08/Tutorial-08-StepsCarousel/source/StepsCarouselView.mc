@@ -143,5 +143,8 @@ class StepsCarouselView extends Ui.DataField {
     function getActivityMonitorInfo() {
         return Toybox.ActivityMonitor.getInfo();
     }
+    function getApplicationProperties() {
+        return Application.getApp();
+    }
 
 }
